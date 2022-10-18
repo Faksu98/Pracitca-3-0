@@ -1,0 +1,16 @@
+Practica 3-1
+
+
+Clase: Libro 
+Objetos: El Archivo de las tormentas, Mistborn
+Caracteristicas: Titulo, Nombre del Autor, Cantidad de paginas, libro en curso o
+                finalizado, tapa dura o tapa blanda.
+
+
+
+Clase: Videojuego
+Objetos: Half-Life, Portal
+Caracteristicas: Nombre del juego, duracion del juego, tipo de juego, creadores, en online o offline, cumple con las caracteristicas de la consola,
+                cantidad de personas que lo juegan, en que consola se puede jugar.
+
+
